@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iames by the grace of God, king of England, Scotland, France &amp; Ireland, defender of the faith &amp;c. to all and singuler archbishops, bishops, archdeacons ... greeting whereas by the humble supplication and petition of our true and loyall subiects the inhabitants of our towne of Staines within our county of Middlesex ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1619</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22195</idno>
+            <idno type="STC">STC 8601</idno>
+            <idno type="STC">ESTC S3821</idno>
+            <idno type="EEBO-CITATION">33151039</idno>
+            <idno type="OCLC">ocm 33151039</idno>
+            <idno type="VID">28880</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22195)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28880)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1875:107)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iames by the grace of God, king of England, Scotland, France &amp; Ireland, defender of the faith &amp;c. to all and singuler archbishops, bishops, archdeacons ... greeting whereas by the humble supplication and petition of our true and loyall subiects the inhabitants of our towne of Staines within our county of Middlesex ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Purfoot,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1619]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>For 1-year collection to repair the bridge at Staines.</note>
+                  <note>Title and other title information from first 9 lines of text.</note>
+                  <note>"Witnes our selfe at Westminster, the eighteenth day of February, in the sixteenth yeere of our Raigne of England, France and Ireland, and of Scotland the Two &amp; fiftieth."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bridges --  England --  Maintenance and repair --  Early works to 1800.</term>
+               <term>Staines (Middlesex, England) --  History --  17th century.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:28880:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 15 -->
+            <head>
+               <figure>
+                  <head>I<hi rend="sup">2</hi> R</head>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">I</seg>AMES, By the Grace of God, King of England, Scotland, France, &amp; Freland, De<g ref="char:EOLhyphen"/>fender of the Faith, &amp;c.</signed> 
+               <salute>To all and ſinguler Archbiſhops, Biſhops, Archdea<g ref="char:EOLhyphen"/>cons, Deanes, and their Officials: parſons, Thears, Curats, and to all ſpi<g ref="char:EOLhyphen"/>rituall perſons: And alſo to all Iuſtices of Peace, Maiors, Sheriffes, Bayliffes, Co<g ref="char:cmbAbbrStroke">̄</g>ſtables, Churchwardens, and Headboroughs: And to all Officers of Cities, Boroughes, and Townes corporate: And to all other our Officers, Miniſters, and Subiects whatſoeuer they bee, aſwell within liberties, as without, to whome theſe preſents ſhall, greeting.</salute>
+            </opener>
+            <p>WHEREAS by the humble Supplication and Petition of our tive and Royall Subiects the Inha<g ref="char:EOLhyphen"/>bitants of our Towne of <hi>Staines</hi> within our County of <hi>Middleſex,</hi> Wee are gtuen to vnderſtand aſwell of the great ruynes &amp; decayes of the Bridge of <hi>Staines,</hi> as alſo of the waſting &amp; decayes of the Cauſway of <hi>Eg<g ref="char:EOLhyphen"/>ham</hi> which leadeth to the ſaid Bridge from the Weſterne parts to one Citty of <hi>London;</hi> Whereupon Wée forthwith directed our Commiſſion under our great Seale of <hi>England.</hi> to our ſight truſty &amp; wel beloued <hi>Tho<g ref="char:EOLhyphen"/>mas</hi> Lord Knynet, Sir <hi>Iohn Dodderidge</hi> Knight one of the Iuſtices of our Benth, Sir <hi>Iohn Derham.</hi> Kinght one of the Barone of our Exchecquer, ſir <hi>Henry Spiller</hi> Knight, <hi>William Mynterne,</hi> &amp; <hi>Adryan Moore</hi> Eſquiors, to authoriſe them to forney the foreſait ruynes and decayes of the ſaid Bridge &amp; Cauſway, and to make Certificate vnto Vs of the preſent neecſſity of the reparation of the ſame, of the charge therof, and how the ſame may bee raiſed; the which accordingly they haue performed: and they do find, aſwell by their owne view, as alſo <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on the examination of the Wardens of the ſaid Bridge &amp; diuers skilfull workmen in theſe affaires, that the ſaid Bridge is ſo dan<g ref="char:EOLhyphen"/>geroully ruynated in the Foundation therof, and generally in all the parts, &amp; the Cauſway ſo worne &amp; eaten away by great Floods, as of neceſſity there muſt be ſpeedy reparation; the charge wherof, will amount nóere vpon the Sum of One Thouſand Pounds. And moreouer there haue been many breaches which haue béen made by reaſon of the ſaid great floods, which haue drowned vp the Country thereabouts, and vndone many of the Inhabitants. And foraſmuch as many inconueniences &amp; great hindrances will daily ariſe in ſtopping of recourſe of trading &amp; other occaſions for the ſeruice &amp; prouiſion of our Citty of <hi>London,</hi> (the ſaid Cauſway &amp; Bridge being the direct &amp; only paſſage for diuers Counties in the Weſterne parts to our foreſaid Citty, and from the ſaid Citty into thoſe Countries againe, it bée<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng alſo the on<g ref="char:EOLhyphen"/>ly way for our own Carriages to paſſe ouer, as often as our occaſions call vs that way, Our ſelfe beeing lately and eye witnes of the ruines and decayes aforeſaid, &amp; of the preſent neceſſity of repayring the ſame,) Wee haue thought good (vpon doe conſideration had therof, aſwel for preuenting of many miſchiefes &amp; vntimely accidents that happen heerafter, as alſo for the maintaining &amp; preſeruing of the paſſage there, it beeing of that coaſequence &amp; ymportance as concerneth the generall good of the Common wealth, to take ſome courſe in time for the raiſing of the forſaid Sum of Money, that thoſe decayes may ſpeedily be repaired &amp; amended. And albeit our poore Subiects the Inha<g ref="char:EOLhyphen"/>bitants of <hi>Staines</hi> are moſt ready &amp; willing to the vttermoſt of their power, to contribute towards the finiſhing &amp; performing of this good &amp; neceſſary work, yet finding the charge therof far beyond their power (they receiuing yeerely by the tolle of the paſſengers there, but Twen<g ref="char:EOLhyphen"/>ty Foure Pounds at moſt, &amp; hauing in ſtocke but Eighteene Pounds, the which is already ymployed in Timber towarts the begin<g ref="char:EOLhyphen"/>ning of this worke) they haue moſt humbly beſought Vs for the better 
+furtherance therof, to commend this good &amp; laudable deed vnto the charitable conſideration of all our louing &amp; wel diſpoſed ſubiects within certaine Counties of this Kingdome, and eſpecially ſuch as may or viually haue recourſe of trading that way, not doubting but that all good Chriſtians &amp; true Subiects (well weighing the premiſſes) will be ready &amp; forward (and the rather for our good commendation heerof) to extend their liberal contributions towards ſpeedy finiſhing and performing of this néedfull &amp; neceſſary worke. And foraſmuch alſo, as it plainely appeareth to all thoſe to whom theſe preſents ſhall come, that this worke tendeth not to the priuate good of any particular perſon, but generally to the ea<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e &amp; benefit of y<hi rend="sup">e</hi> Conmon wealth, and that the neceſſity of the performance therof requireth a ſpeciall courſe abone other ordinary Collections, and a care extraordinary to be had for the ſpeedy collecting &amp; bringing in of preſent ſupplies of moneys on this behalfe, Wee haue thought good to Commend the furtherance of this good worke vnto the ſerious conſideration &amp; beneuole<g ref="char:cmbAbbrStroke">̄</g>ce of all our louing ſubiects within our Citties of <hi>London,</hi> &amp; <hi>Weſtminſter,</hi> with the ſuburbs &amp; liberties therof, &amp; in our Counties of <hi>Middleſex, Surrey, Suſſex, Southampton, W<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ltes. Dorſet. Somerſet, Devon</hi> &amp; <hi>Corn<g ref="char:EOLhyphen"/>wall,</hi> with out Citties of <hi>Chicheſter.</hi> &amp; <hi>Wincheſter,</hi> w<hi rend="sup">t</hi> our Iſle of <hi>Wight.</hi> &amp; Town of <hi>Souch ampton,</hi> &amp; in our Citties of <hi>Salisbury, Briſtoll, Bath,</hi> &amp; <hi>Wells,</hi> &amp; <hi>Exeter,</hi> with our Town &amp; County of <hi>Poole:</hi> And in all Townes corporate, priuiledged places, Pariſhes<g ref="char:punc">▪</g> Villages, &amp; in all other places whatſoeuer within our foreſaid Counties, for and towards the raiſing of the Sum of moneys aforeſaid, to finiſh y<hi rend="sup">e</hi> ſaid worke.</p>
+            <p>NOW know yée therfore, that Our pleaſure is, &amp; Wee do by theſe our Letters Patents authoriſe &amp; require euery Church warden &amp; Pet<g ref="char:EOLhyphen"/>ty Conſtable of euery Pariſh within any the Counties, Citties, Townes corporate, or priuiledged places before recited, that forthwith vpon receipt of theſe our Letters Patents or y<hi rend="sup">e</hi> Briefe therof, they collect &amp; gather of euery perſon within their Pariſh from houſe, to houſe, their contributions towards this good worke. and to endorſe the names of the giuers, and the Sum giuen, on the back ſide of the Briefe, and to returne the Briefe &amp; moneys therupon collected, vnto ſuch Iuſtices of the Peace in euery County, Citty, or Towne corporate, as our Juſtices of Aſſize in their next Circuit ſhall nominate &amp; appoint. And Our further pleaſure is, that thoſe Juſtices of the Peace ſhall returne the money to them deliuered by the Churchwarde<g ref="char:cmbAbbrStroke">̄</g>s or Petty Conſtables, vnto the Bridge. Maſters of <hi>Staines</hi> Bridge, before the end of <hi>Eaſter</hi> Tearme next enſuing the date of theſe our Letters Patents, that this neceſſary worke may ſpeedily be finiſhed &amp; performed. Any Statute, Lawe, Ordinance, or prouiſion heeretofore made to the contrary in any wiſe not withſtanding.</p>
+            <p>IN witneſſe whereof, wee haue cauſed theſe our Letters to be made Patents for the ſpace of One whole yeare next after the data héereof to endure.</p>
+            <closer>
+               <dateline>Witnes our ſelfe at <hi>Weſtminſter,</hi> 
+                  <date>the Eightéenth day of February, in the Sixteenth yeere of our Raigne of England, France and Ireland; and of Scotland the Two &amp; Fiftieth.</date>
+               </dateline>
+               <signed>❀Steward</signed>
+               <lb/>
+❀ God ſaue the king.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by Thomas Purfoot.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
